@@ -1,4 +1,4 @@
-# Team Byte Me - Indexed Unsorted List Project
+# Team Byte Me - Lists Project
 
 ## Overview
 
