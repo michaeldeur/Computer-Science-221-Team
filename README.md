@@ -1,4 +1,4 @@
-# Team Byte Me - Lists Project
+# Team Byte Me - Java Lists Testing Project
 
 ## Overview
 
