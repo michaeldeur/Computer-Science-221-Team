@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements and tests various list data structures in Java, focusing on **Indexed Unsorted Lists** and their iterators. The codebase includes custom implementations, comprehensive unit tests, and scenario-based testing for correctness and robustness, including iterator and list iterator behaviors.
+This project implements and tests various list data structures in Java, focusing on arraylists and linked lists. The codebase includes custom implementations, comprehensive unit tests, and scenario-based testing for correctness and robustness, including iterator and list iterator behaviors.
 
 ## Team
 
@@ -131,7 +131,7 @@ README.md
 
 ## Credits
 
-- Portions of [`BidirectionalNode.java`](BidirectionalNode.java) and [`ListTester.java`](ListTester.java) provided by course staff.
+- Portions of several files including parts of [`ListTester.java`](ListTester.java) was provided by course staff.
 - All other code and documentation by **Team Byte Me**.
 
 ---
